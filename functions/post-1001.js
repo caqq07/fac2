@@ -3,7 +3,7 @@ exports.handler = async event => {
     return {
       statusCode: 301,
       headers: {
-        location: 'https://www.google.com/'
+        location: 'https://www.makalecafe.com/ise-odaklanma-guclugu-cekenler-2021//'
       }
     }
   } else {
